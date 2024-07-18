@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T16:01:42 IST" name="Suite" finished-at="2024-07-16T16:01:55 IST" duration-ms="13245">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T16:01:42 IST" name="Test" finished-at="2024-07-16T16:01:55 IST" duration-ms="13245">
+      <class name="api.testsDetails.TestPetEndpoints_DataDrivenTesting">
+        <test-method signature="testAddPettoStore(java.lang.String,java.lang.String)[pri:1, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:43 IST" name="testAddPettoStore" data-provider="Data" finished-at="2024-07-16T16:01:47 IST" duration-ms="3764" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1586]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPettoStore -->
+        <test-method signature="testAddPettoStore(java.lang.String,java.lang.String)[pri:1, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:47 IST" name="testAddPettoStore" data-provider="Data" finished-at="2024-07-16T16:01:48 IST" duration-ms="737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1523]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPettoStore -->
+        <test-method signature="testAddPettoStore(java.lang.String,java.lang.String)[pri:1, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:48 IST" name="testAddPettoStore" data-provider="Data" finished-at="2024-07-16T16:01:48 IST" duration-ms="642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1561]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddPettoStore -->
+        <test-method signature="testGetPetDetails(java.lang.String,java.lang.String)[pri:2, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:49 IST" name="testGetPetDetails" data-provider="Data" finished-at="2024-07-16T16:01:50 IST" duration-ms="1256" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1586]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPetDetails -->
+        <test-method signature="testGetPetDetails(java.lang.String,java.lang.String)[pri:2, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:50 IST" name="testGetPetDetails" data-provider="Data" finished-at="2024-07-16T16:01:50 IST" duration-ms="476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1523]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPetDetails -->
+        <test-method signature="testGetPetDetails(java.lang.String,java.lang.String)[pri:2, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:50 IST" name="testGetPetDetails" data-provider="Data" finished-at="2024-07-16T16:01:52 IST" duration-ms="1210" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1561]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPetDetails -->
+        <test-method signature="testupdatePetDetails(java.lang.String,java.lang.String)[pri:3, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:52 IST" name="testupdatePetDetails" data-provider="Data" finished-at="2024-07-16T16:01:53 IST" duration-ms="1301" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1586]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdatePetDetails -->
+        <test-method signature="testupdatePetDetails(java.lang.String,java.lang.String)[pri:3, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:53 IST" name="testupdatePetDetails" data-provider="Data" finished-at="2024-07-16T16:01:54 IST" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1523]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdatePetDetails -->
+        <test-method signature="testupdatePetDetails(java.lang.String,java.lang.String)[pri:3, instance:api.testsDetails.TestPetEndpoints_DataDrivenTesting@4c371370]" started-at="2024-07-16T16:01:54 IST" name="testupdatePetDetails" data-provider="Data" finished-at="2024-07-16T16:01:55 IST" duration-ms="1895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1561]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pending]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdatePetDetails -->
+      </class> <!-- api.testsDetails.TestPetEndpoints_DataDrivenTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
